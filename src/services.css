@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    
+    
+}
+
+.services-texts{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color:#6c9894;;
+    margin-top: 4rem;
+    font-family: 'Comfortaa', cursive;
+}
+.services-h1{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.services-p{
+    color:#6c9894;
+    font-family: 'Comfortaa', cursive;
+    
+}
+.imgs{
+    display: flex;
+    justify-content: center;
+    
+}
+.imgs1{
+    margin: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.images{
+    width: 20rem;
+    height: 20rem;
+}
+.services-p2{
+    font-size: 20px;
+    color: #6c9894;
+    font-family: 'Comfortaa', cursive;
+}

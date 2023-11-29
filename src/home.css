@@ -1,0 +1,42 @@
+.bnr{
+    height: 590px;
+    display: flex;
+    }
+     
+ .shape1{
+    width: 31rem;
+    height: 31rem;
+    position: relative;
+    top: 2rem;
+    left: 4.5rem;
+    }
+.b-texts{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    left: 9rem;
+    top: 3.5rem;
+    width: 33rem;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    color: #6c9894;
+}
+.bnrbtn{
+    width: 150px;
+    height: 35px;
+    border: none;
+    position: relative;
+    left: 11rem;
+    top: 2rem;
+    
+    
+}
+.bnrh1{
+font-size: 65px;
+font-weight: bolder;
+}
+.bnrp{
+    color: #6c9894;
+    font-family: 'Comfortaa', cursive;
+}

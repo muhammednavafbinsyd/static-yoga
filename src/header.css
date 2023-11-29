@@ -1,0 +1,58 @@
+.navbar{
+    width: 99%;
+    height: 50px;
+    background-color:  #ededed;
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 1%;
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight:bold;
+    color:grey;
+    position: relative;
+    top: 0.5rem;
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 102px;
+    height: 104px;
+    background-color: #a7d7c5;
+    position: relative;
+    bottom: 1.5rem;
+}
+.image-logo{
+    width: 83px;
+    height: 83px;
+}
+.nav-text{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    position: relative;
+    bottom: 6.5rem;
+    margin-left: 12rem;
+  
+}
+.navtexts{
+    font-family: sans-serif;
+    color: gray !important; 
+
+}
+.navtexts:hover{
+    color: #a7d7c5!important;
+    
+}
+
+.link-header{
+    text-decoration: none;
+}
